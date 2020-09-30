@@ -15,5 +15,6 @@ def calc_disp(d):
   return dispersion
 
 if __name__ == '__main__':
+  print("Data: " + str(data))
   print("Expectation: " + str(calc_expect(data)))
   print("Dispersion: " + str(calc_disp(data)))
