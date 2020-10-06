@@ -1,5 +1,5 @@
-data1 = [1, 2, 3, 4]
-data2 = [0, 0, 0, 1]
+data1 = [1, 2, 3]
+data2 = [4, 5, 6]
 
 def scalar_product(v1, v2):
   l = len(v1)
